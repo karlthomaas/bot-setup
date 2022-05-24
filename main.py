@@ -10,11 +10,12 @@ with open('jsons/configs.json') as f:
 
 l.basicConfig(filename=configs['logfile'], level=l.INFO,format='%(asctime)s %(levelname)-8s - %(message)s')
 
-client = commands.Bot(command_prefix=".", intents=intents, test_guilds=[949671611630501919])
+
+client = commands.Bot(command_prefix=".", intents=intents, test_guilds=[930091138352840715])
 
 @client.event
 async def on_ready():
-    ...
+    print(f'{client.user} is running!')
 
 @client.command()
 @commands.is_owner()

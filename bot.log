@@ -1,0 +1,26 @@
+2022-05-24 10:56:49,162 WARNING  - PyNaCl is not installed, voice will NOT be supported
+2022-05-24 10:56:49,167 INFO     - logging in using static token
+2022-05-24 10:56:49,660 INFO     - Shard ID None has sent the IDENTIFY payload.
+2022-05-24 10:56:49,836 INFO     - Websocket closed with 4014, cannot reconnect.
+2022-05-24 10:56:49,837 INFO     - Cleaning up tasks.
+2022-05-24 10:56:49,837 INFO     - Cleaning up after 2 tasks.
+2022-05-24 10:56:49,838 INFO     - All tasks finished cancelling.
+2022-05-24 10:56:49,838 INFO     - Closing the event loop.
+2022-05-24 10:56:58,800 WARNING  - PyNaCl is not installed, voice will NOT be supported
+2022-05-24 10:56:58,805 INFO     - logging in using static token
+2022-05-24 10:56:59,476 INFO     - Shard ID None has sent the IDENTIFY payload.
+2022-05-24 10:56:59,717 INFO     - Shard ID None has connected to Gateway: ["gateway-prd-main-bvnr",{"micros":83492,"calls":["discord-sessions-green-prd-2-168",{"micros":82587,"calls":["start_session",{"micros":80390,"calls":["discord-api-c5c884d6c-j2kf7",{"micros":74720,"calls":["get_user",{"micros":16977},"add_authorized_ip",{"micros":1304},"get_guilds",{"micros":8509},"coros_wait",{"micros":2}]}]},"guilds_connect",{"micros":1,"calls":[]},"presence_connect",{"micros":1605,"calls":[]}]}]}] (Session ID: 79cec15f0f10267ae02112393ac86c36).
+2022-05-24 10:57:17,193 INFO     - Received signal to terminate bot and event loop.
+2022-05-24 10:57:17,193 INFO     - Cleaning up tasks.
+2022-05-24 10:57:17,193 INFO     - Cleaning up after 1 tasks.
+2022-05-24 10:57:17,326 INFO     - All tasks finished cancelling.
+2022-05-24 10:57:17,326 INFO     - Closing the event loop.
+2022-05-24 10:57:18,663 WARNING  - PyNaCl is not installed, voice will NOT be supported
+2022-05-24 10:57:18,667 INFO     - logging in using static token
+2022-05-24 10:57:19,216 INFO     - Shard ID None has sent the IDENTIFY payload.
+2022-05-24 10:57:19,533 INFO     - Shard ID None has connected to Gateway: ["gateway-prd-main-dzjb",{"micros":168445,"calls":["discord-sessions-green-prd-2-107",{"micros":167642,"calls":["start_session",{"micros":107612,"calls":["discord-api-c5c884d6c-6qs6l",{"micros":99524,"calls":["get_user",{"micros":15007},"add_authorized_ip",{"micros":15084},"get_guilds",{"micros":9661},"coros_wait",{"micros":1}]}]},"guilds_connect",{"micros":2,"calls":[]},"presence_connect",{"micros":41225,"calls":[]}]}]}] (Session ID: 631e09c841d1fce2119d30e12b2c0663).
+2022-05-24 10:57:31,558 INFO     - Received signal to terminate bot and event loop.
+2022-05-24 10:57:31,559 INFO     - Cleaning up tasks.
+2022-05-24 10:57:31,559 INFO     - Cleaning up after 1 tasks.
+2022-05-24 10:57:31,693 INFO     - All tasks finished cancelling.
+2022-05-24 10:57:31,693 INFO     - Closing the event loop.
