@@ -9,3 +9,5 @@ class Sqldb:
         print('Connection established')
         self.db = await aiosqlite.connect('./databases/database.db')
         self.cursor = await self.db.cursor()
+
+sqldb = Sqldb()
